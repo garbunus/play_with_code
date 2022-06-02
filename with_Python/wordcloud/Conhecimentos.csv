@@ -1,0 +1,85 @@
+Palavras,Pesos,Language
+Python,80,Portugues
+Julia,50,Portugues
+PHP,15,Portugues
+JavaScript,15,Portugues
+Git,70,Portugues
+Linux,40,Portugues
+Ubuntu,45,Portugues
+Fedora,45,Portugues
+Heroku,20,Portugues
+VirtualEnv,25,Portugues
+Conda,28,Portugues
+Pesquisa Clínica,42,Portugues
+SQL,40,Portugues
+Análise de dados,45,Portugues
+Trabalho em Equipe,40,Portugues
+R,15,Portugues
+Story teling,35,Portugues
+Data visualization,30,Portugues
+Pesquisa,17,Portugues
+Machine Learning,40,Portugues
+ML Supervisionado,20,Portugues
+ML não supervisionado,18,Portugues
+NoSQL,10,Portugues
+Web Scraping,15,Portugues
+Pandas,38,Portugues
+Numpy,38,Portugues
+SKlearn,40,Portugues
+DataFrames,18,Portugues
+Plots,18,Portugues
+Comunicação,50,Portugues
+Bateria,20,Portugues
+Inglês,25,Portugues
+Fisioterapia,35,Portugues
+Redes Neurais,20,Portugues
+Gradient Boosting,38,Portugues
+Clustering,30,Portugues
+Regression,25,Portugues
+Arte Digital,25,Portugues
+Planejamento,30,Portugues
+Gerenciamento,30,Portugues
+Saúde/Médica,45,Portugues
+Pesquisa Operacional,20,Portugues
+CRISP-DM,60,Portugues
+Criatividade,50,Portugues
+,,
+Python,90,English
+Julia_lang,40,English
+PHP,20,English
+JavaScript,30,English
+Git,70,English
+Linux,70,English
+Ubuntu,60,English
+Fedora,70,English
+Heroku,40,English
+VirtualEnv,60,English
+Conda,60,English
+Clinical Trials,30,English
+SQL,70,English
+Data Analysis,60,English
+Team work,40,English
+R,60,English
+Story teling,60,English
+Data visualization,60,English
+Research,30,English
+Machine Learning,60,English
+NoSQL,30,English
+Web Scraping,30,English
+Pandas,80,English
+Numpy,70,English
+SKlearn,70,English
+Comunication,80,English
+Soft skills,40,English
+English,60,English
+Management,60,English
+Health,70,English
+Django,80,English
+Web,50,English
+Scrum,50,English
+FASTAPI,30,English
+Matplotlib,50,English
+Seaborn,50,English
+Operations Research,20,English
+Creativity,50,English
+CRISP-DM,60,English
